@@ -1,8 +1,6 @@
 ## Olá! Sou a Camila, Bem vindo(a) ao meu GitHub
 <ul>
     <li>👩🏻‍💻 Estudante de Engenharia Da Computação  </li>
-    <li>✨Futura Desenvolvedora Front-End</li>
-    <li>🖥️Desenvolvimento Web</li>
 </ul>
 
 ##
