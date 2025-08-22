@@ -1,7 +1,8 @@
-## Olá! Sou a Camila, Bem vindo(a) ao meu GitHub
-<ul>
-    <li>👩🏻‍💻 Engenheira Da Computação  </li>
-</ul>
+Hi there, I'm Camila 👩‍💻  
+🔹 Computer Engineer 
+🔹 Experience with **React, Node.js, TypeScript, .NET, and PL/SQL**  
+🔹 Skilled in developing web and desktop applications, as well as process automation  
+🔹 Exploring the world of **data engineering** 
 
 ##
 <div>
