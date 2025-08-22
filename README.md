@@ -4,9 +4,7 @@ Hi there, I'm Camila 👩‍💻
 
 🔹 Experience with **React, Node.js, TypeScript, .NET, and PL/SQL**  
 
-🔹 Skilled in developing web and desktop applications, as well as process automation  
-
-🔹 Exploring the world of **data engineering** 
+🔹 Skilled in developing web and desktop applications, and process automation  
 
 ##
 <div>
